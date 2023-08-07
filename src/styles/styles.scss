@@ -1,0 +1,15 @@
+.car__list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.car__item {
+    text-align: center;
+    width: 50px;
+    height: 20px;
+    border-radius: 7px;
+    color: white;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
